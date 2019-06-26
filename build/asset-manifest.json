@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ac88f0c.chunk.css",
+    "main.js": "/static/js/main.f02ead34.chunk.js",
+    "main.js.map": "/static/js/main.f02ead34.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.4dcf69e0.chunk.js": "/static/js/2.4dcf69e0.chunk.js",
+    "static/js/2.4dcf69e0.chunk.js.map": "/static/js/2.4dcf69e0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d1eb5a908cf26e7f27da844fd62630a0.js": "/precache-manifest.d1eb5a908cf26e7f27da844fd62630a0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1ac88f0c.chunk.css.map": "/static/css/main.1ac88f0c.chunk.css.map",
+    "static/media/androidRobot.svg": "/static/media/androidRobot.07991880.svg",
+    "static/media/logo.png": "/static/media/logo.2ff00cfc.png"
+  }
+}
